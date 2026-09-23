@@ -3,6 +3,9 @@
 A superhero emergency console built with Flutter. Sentinel-07 can spend energy
 on tactical actions, rescue civilians, charge a laser, and recharge the suit.
 
+# google doc link
+https://docs.google.com/document/d/1dDaTybkA5oyrTZ_ppj3kJxu7e9-uDGaAaL1h2mnAlks/edit?tab=t.0
+
 ## Build Challenge
 
 - **Theme:** Superhero command deck responding to a city emergency.
